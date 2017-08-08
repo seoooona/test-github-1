@@ -6,6 +6,7 @@ public class Calculator {
     int a = 4;
     int b = 2;
     System.out.println( sum(a,b) );
+    System.out.println("Hello World");
   }
 
   private static int sum(int a, int b) {
